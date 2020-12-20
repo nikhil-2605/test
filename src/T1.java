@@ -4,7 +4,7 @@ public class T1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Believe Ittt !!!!");
+		System.out.println("Believe Ittt or not !!!!");
 		
 		
 	}
